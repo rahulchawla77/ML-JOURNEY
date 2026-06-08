@@ -15,12 +15,12 @@ This is where I document everything I learn and build while studying ML. Each fi
 |------|-----------|---------|------------|
 | `Decision Trees.ipynb` | Decision Tree Classifier | Titanic | 80% accuracy |
 | `Naive Bayes.ipynb` | Naive Bayes Classifier | Titanic | 78% accuracy |
-| `KNN.ipynb` | K-Nearest Neighbors | Titanic | - |
-| `Logistic regression.ipynb` | Logistic Regression | Titanic | - |
+| `KNN.ipynb` | K-Nearest Neighbors | Titanic |80% accuracy  |
+| `Logistic regression.ipynb` | Logistic Regression | Titanic | 80% accuracy|
 | `svc.ipynb` | Support Vector Classifier (rbf) | Titanic | 83% accuracy ⭐ |
 | `car price prediction.ipynb` | Linear Regression | Car Price Dataset | - |
-| `Ml project1.ipynb` | ML Project | - | - |
-| `lpl project learning.ipynb` | Data Analysis | IPL Dataset | - |
+| `Ml project1.ipynb` | ML Project | Insurance| 80% accuracy |
+| `lpl project learning.ipynb` | Data Analysis | IPL Dataset | |
 | `MATPLOT LIB.ipynb` | Matplotlib practice | - | - |
 | `seaborn.ipynb` | Seaborn practice | - | - |
 
