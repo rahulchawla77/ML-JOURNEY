@@ -23,7 +23,9 @@ This is where I document everything I learn and build while studying ML. Each fi
 | `lpl project learning.ipynb` | Data Analysis | IPL Dataset | |
 | `MATPLOT LIB.ipynb` | Matplotlib practice | - | - |
 | `seaborn.ipynb` | Seaborn practice | - | - |
-
+Model: Decision Tree  
+Accuracy: 88.9% (5-fold Cross Validation)  
+Dataset: Student Performance (10,000 students)
 ---
 
  🧠 What I've learned so far
